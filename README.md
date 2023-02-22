@@ -9,7 +9,7 @@ Aspiring software engineer with a passion for creating clean, efficient, and use
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [mogakaroy@gmail.com](mailto:mogakaroy@gmail.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on C, Python and ReactJs
+* 🤝  I'm open to collaborating on C, JavaScript, Python and ReactJs
 * ⚡  I'm Secretly Spiderman, but don't tell anyone!
 
 ### Skills
