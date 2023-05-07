@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Aspiring software engineer with a passion for creating clean, efficient, and user-friendly code. Currently pursuing a degree in computer science, and always looking forward to learn and grow. Check out my GitHub to see some of my latest projects!
+Software engineer with a passion for creating clean, efficient code. Currently pursuing 12 months advanced Software Engineering Program, and always looking forward to learn and grow. Check out my GitHub to see some of my latest projects!
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [mogakaroy@gmail.com](mailto:mogakaroy@gmail.com)
