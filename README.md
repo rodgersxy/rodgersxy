@@ -47,7 +47,7 @@ Software engineer with a passion for creating clean, efficient code. Currently p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodgersxy&layout=pie)](https://github.com/rodgersxy/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodgersxy)](https://github.com/rodgersxy/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/rodgersxy/github-readme-stats)
 
 <b>My GitHub Stat</b>
 
