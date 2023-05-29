@@ -45,6 +45,8 @@ Software engineer with a passion for creating clean, efficient code. Currently p
 
 ### Badges
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodgersxy)](https://github.com/rodgersxy/github-readme-stats)
+
 <b>My GitHub Stat</b>
 
 <a href="http://www.github.com/rodgersxy"><img src="https://github-readme-stats.vercel.app/api?username=rodgersxy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rodgersxy's GitHub stats" /></a>
