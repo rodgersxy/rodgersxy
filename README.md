@@ -45,7 +45,7 @@ Software engineer with a passion for creating clean, efficient code. Currently p
 
 ### Badges
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodgersxy&layout=pie)](https://github.com/rodgersxy/github-readme-stats)
 
 <b>My GitHub Stat</b>
 
