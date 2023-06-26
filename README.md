@@ -39,7 +39,7 @@ Software engineering Student with a passion for creating clean, efficient code. 
 
 ### Badges
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodgersxy)](https://github.com/rodgersxy/github-readme-stats)
+
 
 <b>My GitHub Stat</b>
 
