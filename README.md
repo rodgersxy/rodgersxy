@@ -51,5 +51,7 @@ Software engineering Student with a passion for creating clean, efficient code. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodgersxy&layout=compact&langs_count=10&hide=html,css)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodgersxy&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
