@@ -10,7 +10,6 @@ Software engineering Student with a passion for creating clean, efficient code. 
 * ✉️  You can contact me at [mogakaroy@gmail.com](mailto:mogakaroy@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on C, JavaScript, Python and ReactJs
-* ⚡  I'm Secretly Spiderman, but don't tell anyone!
 
 ### Skills
 
@@ -38,8 +37,8 @@ Software engineering Student with a passion for creating clean, efficient code. 
 <p align="left"> <a href="https://www.github.com/rodgersxy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rodgers-nyakundi-8397b3137/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rodgerwilly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
-[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)  
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)  
 
 
 <b>My GitHub Stat</b>
