@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rodgers Mogaka
 ======================================================================================================================================
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=lizheming.visitor-badge)
 
 Software Engineer
 -----------------
