@@ -41,7 +41,7 @@ Software engineering Student with a passion for creating clean, efficient code. 
 [![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)  
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rodgersxy)](https://github.com/rodgersxy/github-profile-trophy)
 
 <b>My GitHub Stat</b>
 
