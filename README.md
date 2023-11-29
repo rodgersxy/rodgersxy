@@ -10,7 +10,7 @@ Software engineering Student with a passion for creating clean, efficient code. 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [mogakaroy@gmail.com](mailto:mogakaroy@gmail.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on C, JavaScript, Python and ReactJs
+* 🤝  I'm open to collaborating on C, JavaScript, Python and Django
 
 ### Skills
 
@@ -35,7 +35,7 @@ Software engineering Student with a passion for creating clean, efficient code. 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/rodgersxy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/rodgers-nyakundi-8397b3137/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rodgerwilly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/rodgersxy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> </br>  <a href="https://www.linkedin.com/in/rodgers-nyakundi-8397b3137/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rodgerwilly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stat</b>
