@@ -9,8 +9,8 @@ Software Developer
 
 * 🌍  remote
 * ✉️  You can contact me at [mogakaroy@gmail.com](mailto:mogakaroy@gmail.com)
-* 🧠  I'm learning Ruby
-* 🤝  I'm open to collaborating on C, JavaScript, Python, Django, Flask and ReactJS
+* 🧠  Currently learning Ruby on Rails
+* 🤝  I'm open to collaborating on C, TypeScript, Tailwind, Python, Django, Flask and ReactJS
 
 ### Skills
 
