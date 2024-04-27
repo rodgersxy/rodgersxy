@@ -2,15 +2,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=lizheming.visitor-badge)
 
-Software Engineer
+Software Developer
 -----------------
 
-Software engineering Student with a passion for creating clean, efficient code. Currently pursuing 12 months advanced Software Engineering Program, and always looking forward to learn and grow. Check out my GitHub to see some of my latest projects!
+🚀 Driven by a relentless pursuit of excellence in software engineering, I'm a backend-focused software developer on a mission to craft elegant solutions. I thrive on pushing the boundaries of what's possible.
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  remote
 * ✉️  You can contact me at [mogakaroy@gmail.com](mailto:mogakaroy@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on C, JavaScript, Python and Django
+* 🧠  I'm learning Ruby
+* 🤝  I'm open to collaborating on C, JavaScript, Python, Django and Flask
 
 ### Skills
 
